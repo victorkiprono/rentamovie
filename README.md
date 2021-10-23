@@ -1,12 +1,10 @@
-# Vidly API
+# Rent A Movie
 
-Movie rental API built as the final project for [Node.js: The Complete Guide to Build RESTful APIs](https://www.udemy.com/nodejs-master-class/).
+Movie rental API built for Node Js learning purposes.
 
 ## Online Demo
 
-Access the following link to check the API running on the cloud, hosted on [Heroku](https://www.heroku.com/):
 
-[https://arcane-tor-20765.herokuapp.com/api/genres](https://arcane-tor-20765.herokuapp.com/api/genres)
 
 ## How to Run
 
